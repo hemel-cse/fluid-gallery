@@ -5,7 +5,7 @@ import FluidGallery from 'react-fluid-gallery'
 import ModalVideo from 'react-modal-video'
 
 
-// Add more images or video links below
+// Add more images or video links below in array
 
 window.galleryImages = [
  'https://picsum.photos/seed/picsum/1024/1024',

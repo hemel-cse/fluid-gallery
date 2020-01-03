@@ -1,9 +1,9 @@
 {
-  "name": "react-fluid-gallery-example",
-  "homepage": "https://transitive-bullshit.github.io/react-fluid-gallery",
+  "name": "gallery",
+  "homepage": "https://hemel-cse.github.io/fluid-gallery",
   "version": "0.0.0",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
